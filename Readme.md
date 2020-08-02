@@ -36,7 +36,7 @@ There are four datasets:
    4) bank.csv with 10% of the examples and 17 inputs, randomly selected from 3 (older version of this dataset with less inputs).  
 The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM).  
 
-# How To Buil APP
+# How To Build APP
   
 
 ## Library
@@ -46,7 +46,7 @@ tensorflow, keras - machinelearning
 xlsxwriter - used to format the .csv file after exporting the file.  
 tkinter - GUI  
 seaborn, matplotlib - used to draw graphs
-## Buil
+## Build
   
   
-Python Train.py
+python Train.py
